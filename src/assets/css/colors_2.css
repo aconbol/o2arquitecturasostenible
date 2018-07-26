@@ -51,7 +51,7 @@ a:focus,
 .services-item i,
 .client-info h4,
 blockquote {
-    color: #197cd9; /* Primary color */
+    color: #8bc34a; /* Primary color */
 }
 
 .pace .pace-progress,
@@ -68,13 +68,14 @@ blockquote {
 .recent-project-carousel.owl-theme .owl-controls .owl-page span,
 .scroll-top a:link,
 .scroll-top a:visited {
-    background: #197cd9; /* Primary color */
+    /*background: #197cd9; !* Primary color *!*/
+  background: #388e3c;
 }
 
 
 .services-item:before {
-    border-bottom-color: #197cd9; /* Primary color */
-    border-left-color: #197cd9; /* Primary color */
+    border-bottom-color: #212121; /* Primary color */
+    border-left-color: #212121; /* Primary color */
 }
 
 .testimonials p.speech,
@@ -82,7 +83,7 @@ blockquote {
 .scroll-top a:link,
 .scroll-top a:visited,
 blockquote {
-    border-color: #197cd9; /* Primary color */
+    border-color: #212121; /* Primary color */
 }
 
 .testimonials p.speech:before {
@@ -99,12 +100,12 @@ blockquote {
 .btn-overcolor:hover,
 .btn-overcolor:focus,
 .scroll-top a:hover {
-    border: 1px solid #096ac6; /* Hover color */
-    background: #096ac6; /* Hover color */
+    border: 1px solid #388e3c; /* Hover color */
+    background: #388e3c; /* Hover color */
 }
 
 .full-project:hover {
-    background: #096ac6; /* Hover color */
+    background: #212121; /* Hover color */
 }
 
 .btn-overcolor:hover{
@@ -152,7 +153,7 @@ blockquote {
 .team-member figure:hover figcaption,
 .services-item:hover,
 #cd-zoom-in, #cd-zoom-out{
-	background-color: rgba(25,124,217, 0.9); /* RGBA of Primary color - opacity .9 */
+	background-color: rgba(56,142,60, 0.9); /* RGBA of Primary color - opacity .9 */
 }
 
 
@@ -179,5 +180,5 @@ footer .copynote {
 }
 
 body {
-    webkit-tap-highlight-color: rgba(25,124,217, .7); /* RGBA of Primary color - opacity .7 */
+    webkit-tap-highlight-color: rgba(6,115,10, .7); /* RGBA of Primary color - opacity .7 */
 }
